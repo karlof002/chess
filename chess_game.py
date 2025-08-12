@@ -1,5 +1,5 @@
-from chess.ui import settings_screen
-from chess.game import Game
+from chess_game_modules.ui import settings_screen
+from chess_game_modules.game import Game
 
 def main():
     while True:
